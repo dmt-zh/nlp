@@ -1,0 +1,13 @@
+# Environments
+.idea/
+.vscode/
+.ipynb_checkpoints/
+env/
+venv/
+
+# Logs
+*.log
+
+# Python dev files
+*.py
+
