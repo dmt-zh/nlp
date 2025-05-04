@@ -53,5 +53,5 @@ deactivate
 
 | Ноутбук               | Тема                    | Содержание                                                                                                     | Технологии                       |
 | --------------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| `Text Representation` | Векторная модель текста | Стемминг<br>Лемматизация<br>One-Hot Encoding<br>BoW (Bag of Words)<br>BoN (Bag of N-Grams), TF-IDF<br>Word2vec | NLTK, spaCy, regex, scikit-learn |
+| `Text Representation` | Векторная модель текста | Стемминг<br>Лемматизация<br>One-Hot Encoding<br>BoW (Bag of Words)<br>BoN (Bag of N-Grams)<br>TF-IDF<br>Word2vec | NLTK, spaCy, regex, scikit-learn |
 |                       |                         |                                                                                                                |                                  |
