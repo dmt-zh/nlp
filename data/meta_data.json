@@ -23,5 +23,30 @@
         "topic": "animals",
         "subject": "frog",
         "link": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8F%D0%B3%D1%83%D1%88%D0%BA%D0%B8"
+    },
+    "0006_doc.ru": {
+        "topic": "movie",
+        "subject": "thunderbolts*",
+        "link": "https://tech.onliner.by/2025/05/04/gromoverzhcy-obzor"
+    },
+    "0007_doc.ru": {
+        "topic": "real_estate",
+        "subject": "skyscraper",
+        "link": "https://realt.onliner.by/2025/05/04/samoe-vysokoe-zdanie"
+    },
+    "0008_doc.ru": {
+        "topic": "nature",
+        "subject": "lake_naroch",
+        "link": "https://realt.onliner.by/2025/05/04/samoe-vysokoe-zdanie"
+    },
+    "0009_doc.ru": {
+        "topic": "auto",
+        "subject": "geely",
+        "link": "https://auto.onliner.by/2025/05/04/skolko-stoyat-geely-s-probegom"
+    },
+    "0010_doc.ru": {
+        "topic": "plants",
+        "subject": "birch",
+        "link": "https://wildlife.by/recreation-and-tourism/articles/Bereza%2C%20belaya%20podruga/"
     }
 }
