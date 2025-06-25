@@ -54,8 +54,10 @@ deactivate
 ```
 <hr>
 
-## Интерактивные ноутбуки:
+## Интерактивные ноутбуки
 
 | Ноутбук                       | Тема                    | Содержание                                                                                                                                                                         | TF-IDF score                     |
 | ----------------------------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | `Text Representation. Part 1` | Векторная модель текста | Стемминг<br>Лемматизация<br>One-Hot Encoding<br>BoW (Bag of Words)<br>BoN (Bag of N Grams)<br>TF-IDF (Term Frequency Inverse Document Frequency)<br>LDA (Latent Semantic Analysis) | NLTK, spaCy, regex, scikit-learn |
+| `Text Representation. Part 2` | Векторная модель текста | Word2Vec                                                                                                                                                                           | gensim                           |
+
